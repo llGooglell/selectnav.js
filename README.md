@@ -4,8 +4,6 @@ SelectNav.js is a JavaScript plugin that lets you convert your website navigatio
 
 Inspired by [TinyNav.js](http://tinynav.viljamis.com/), it was rewritten from scratch to become jQuery independent and customizable.
 
-Questions, comments, bugs? Feel free to ping me on Twitter - [@lukaszfiszer](http://twitter.com/#!/lukaszfiszer).
-
 # Features
 
 * Independent - no external library or other dependecies
@@ -68,10 +66,6 @@ The `selectnav` function takes as the second argument a key-value list of the fo
 * `indent` *char* - used together with nested attribute, it lets you specify the indent symbol. **Default** →
 * `label` *string* - set a label that will be the first element of the drop-down menu. **Default** - Navigation -
 
-
-# Demos
-
-See http://lukaszfiszer.github.com/selectnav.js/ for live demo and examples
 
 # Ender
 
